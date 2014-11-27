@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" font-family="Arial" font-size="13" width="691" height="435">
+	<desc>UML diagram model</desc>
+	<g id="_GsjgQXX_EeSfPZ7vcufCPw">
+		<defs>
+			<linearGradient id="greyGradient" x1="0%" y1="0%" x2="0%" y2="100%" spreadMethod="pad">
+				<stop offset="0%" stop-color="#FFFFFF" stop-opacity="1"/>
+				<stop offset="100%" stop-color="#E5E5E5" stop-opacity="1"/>
+				
+			</linearGradient>
+			<linearGradient id="packageGradient" x1="0%" y1="0%" x2="0%" y2="100%" spreadMethod="pad">
+				<stop offset="0%" stop-color="#FFFFFF" stop-opacity="1"/>
+				<stop offset="100%" stop-color="#EFE9DE" stop-opacity="1"/>
+				
+			</linearGradient>
+			
+		</defs>
+		<g id="_ew55sFg1EDKdWJe8G8uvOA">
+			<polyline fill="none" stroke-width="1" stroke="#A29E9E" points="57,36  57,400 " stroke-dasharray="10, 5"/>
+			<rect x="2" y="15" width="109" height="39" rx="0" ry="0" fill="url(#greyGradient)" stroke="#CCCCCC" stroke-width="1"/>
+			<text x="57" y="36" text-anchor="middle" font-style="normal" font-weight="bold" fill="#033656">Client</text>
+			
+		</g>
+		<g id="_f9b-QFg1EDKdWJe8G8uvOA">
+			<polyline fill="none" stroke-width="1" stroke="#A29E9E" points="602,36  602,400 " stroke-dasharray="10, 5"/>
+			<rect x="532" y="15" width="139" height="39" rx="0" ry="0" fill="url(#greyGradient)" stroke="#CCCCCC" stroke-width="1"/>
+			<text x="602" y="36" text-anchor="middle" font-style="normal" font-weight="bold" fill="#033656">Credential provider</text>
+			
+		</g>
+		<g id="_juJPwFg1EDKdWJe8G8uvOA">
+			<polyline fill="none" stroke-width="1" stroke="#A29E9E" points="357,36  357,400 " stroke-dasharray="10, 5"/>
+			<rect x="302" y="15" width="109" height="39" rx="0" ry="0" fill="url(#greyGradient)" stroke="#CCCCCC" stroke-width="1"/>
+			<text x="357" y="36" text-anchor="middle" font-style="normal" font-weight="bold" fill="#033656">Server</text>
+			
+		</g>
+		<g id="_pxvJ4Fg1EDKdWJe8G8uvOA">
+			<rect x="50" y="77" width="14" height="40" rx="0" ry="0" fill="url(#packageGradient)" stroke="#c2b79f" stroke-width="1"/>
+			
+		</g>
+		<g id="_v1k7oFg1EDKdWJe8G8uvOA">
+			<rect x="350" y="77" width="14" height="40" rx="0" ry="0" fill="url(#packageGradient)" stroke="#c2b79f" stroke-width="1"/>
+			
+		</g>
+		<g id="_wWOxoFg1EDKdWJe8G8uvOA">
+			<rect x="595" y="77" width="14" height="158" rx="0" ry="0" fill="url(#packageGradient)" stroke="#c2b79f" stroke-width="1"/>
+			
+		</g>
+		<g id="_N17w4Vg2EDKdWJe8G8uvOA">
+			<rect x="50" y="214" width="14" height="20" rx="0" ry="0" fill="url(#packageGradient)" stroke="#c2b79f" stroke-width="1"/>
+			
+		</g>
+		<g id="_TY-isVg2EDKdWJe8G8uvOA">
+			<rect x="350" y="124" width="14" height="50" rx="0" ry="0" fill="url(#packageGradient)" stroke="#c2b79f" stroke-width="1"/>
+			
+		</g>
+		<g id="_YpMpsFg3EDKdWJe8G8uvOA">
+			<rect x="50" y="267" width="14" height="73" rx="0" ry="0" fill="url(#packageGradient)" stroke="#c2b79f" stroke-width="1"/>
+			
+		</g>
+		<g id="_eTwYwVg3EDKdWJe8G8uvOA">
+			<rect x="350" y="267" width="14" height="50" rx="0" ry="0" fill="url(#packageGradient)" stroke="#c2b79f" stroke-width="1"/>
+			
+		</g>
+		<g id="_zs7nsFg1EDKdWJe8G8uvOA">
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="64,77 350,77"/>
+			<g id="_zs7nsFg1EDKdWJe8G8uvOA">
+				<text x="147" y="70" font-style="normal" fill="black">ask credential</text>
+				
+			</g>
+			<g transform="translate(350,77)">
+				<g transform="rotate(90)">
+					<polyline fill="#000000" stroke-width="1" stroke="#000000" points="-4,12 0,0 4,12 -4,12"/>
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<g id="_CZQ5QFg2EDKdWJe8G8uvOA">
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="364,77 595,77"/>
+			<g id="_CZQ5QFg2EDKdWJe8G8uvOA">
+				<text x="432" y="70" font-style="normal" fill="black">ask credential</text>
+				
+			</g>
+			<g transform="translate(595,77)">
+				<g transform="rotate(90)">
+					<polyline fill="#000000" stroke-width="1" stroke="#000000" points="-4,12 0,0 4,12 -4,12"/>
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<g id="_N1-NIFg2EDKdWJe8G8uvOA">
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="595,214 64,214"/>
+			<g id="_N1-NIFg2EDKdWJe8G8uvOA">
+				<text x="382" y="207" font-style="normal" fill="black">send password (mail, sms, ...)</text>
+				
+			</g>
+			<g transform="translate(64,214)">
+				<g transform="rotate(-90)">
+					<polyline fill="#000000" stroke-width="1" stroke="#000000" points="-4,12 0,0 4,12 -4,12"/>
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<g id="_TZAX4Fg2EDKdWJe8G8uvOA">
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="364,174 595,174" stroke-dasharray="10, 5"/>
+			<g transform="translate(595,174)">
+				<g transform="rotate(90)">
+					<polyline fill="none" stroke-width="1" stroke="#000000" points="-4,8 0,0 4,8"/>
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<g id="_TZC0IFg2EDKdWJe8G8uvOA">
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="595,124 364,124"/>
+			<g id="_TZC0IFg2EDKdWJe8G8uvOA">
+				<text x="432" y="117" font-style="normal" fill="black">send verifier</text>
+				
+			</g>
+			<g transform="translate(364,124)">
+				<g transform="rotate(-90)">
+					<polyline fill="#000000" stroke-width="1" stroke="#000000" points="-4,12 0,0 4,12 -4,12"/>
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<g id="_N8Ql4Fg3EDKdWJe8G8uvOA">
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="350,117 64,117" stroke-dasharray="10, 5"/>
+			<g transform="translate(64,117)">
+				<g transform="rotate(-90)">
+					<polyline fill="none" stroke-width="1" stroke="#000000" points="-4,8 0,0 4,8"/>
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<g id="_eTxm4Fg3EDKdWJe8G8uvOA">
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="350,317 64,317" stroke-dasharray="10, 5"/>
+			<g transform="translate(64,317)">
+				<g transform="rotate(-90)">
+					<polyline fill="none" stroke-width="1" stroke="#000000" points="-4,8 0,0 4,8"/>
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<g id="_eTy1AFg3EDKdWJe8G8uvOA">
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="64,267 350,267"/>
+			<g id="_eTy1AFg3EDKdWJe8G8uvOA">
+				<text x="72" y="257" font-style="normal" fill="black">SRP connection (username = session Id)</text>
+				
+			</g>
+			<g transform="translate(350,267)">
+				<g transform="rotate(90)">
+					<polyline fill="#000000" stroke-width="1" stroke="#000000" points="-4,12 0,0 4,12 -4,12"/>
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<text x="446" y="167" fill="#000000">confirm</text>
+		<text x="121" y="307" fill="#000000">set session cookie to open</text>
+		
+	</g>
+	
+</svg>
