@@ -22,9 +22,9 @@ module.exports.sockets = {
   *                                                                          *
   ***************************************************************************/
   onConnect: function(session, socket) {
-
+//    console.log(session);
+    socket.socketSession = {};
     // By default, do nothing.
-
   },
 
 
